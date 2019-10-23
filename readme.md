@@ -9,3 +9,6 @@
 ![alt_text](https://github.com/maharani26/Maharani_XIIRPL2_20_LOGIN_PPOB_UKK/blob/master/3.PNG)
 
 ![alt_text](https://github.com/maharani26/Maharani_XIIRPL2_20_LOGIN_PPOB_UKK/blob/master/4.PNG)
+
+ERD PPOB
+![alt_text](https://github.com/maharani26/Maharani_XIIRPL2_20_LOGIN_PPOB_UKK/blob/master/5.PNG)
